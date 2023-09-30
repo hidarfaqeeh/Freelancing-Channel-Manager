@@ -11,11 +11,11 @@ import json
 
 
 # Parameters
-BOT_API = "BOT_API_TOKEN"
-MAIN_CHANNEL = "@MAIN_CHANNEL_USERNAME"
-SUPPORT_USER = "@SUPPORT_USER_USERNAME"
-BOT_ID = '@BOT_ID'
-ADMIN_PASSWORD = 'YOUR_PASSWORD'
+BOT_API = "1543026455:AAEMi_2iq71gnKn9jX-j_MGhTvoQOxLMe5c"
+MAIN_CHANNEL = "@zawamlansarallah"
+SUPPORT_USER = "@jod_yemen"
+BOT_ID = '1543026455'
+ADMIN_PASSWORD = 'hidar'
 owenerID = 1 # Don't change this
 # Parameters
 
